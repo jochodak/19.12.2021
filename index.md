@@ -1,5 +1,6 @@
 ## Persona
 ![Persona](./persona.jpg)
+
 Persona is a 27 year old male. He works as a Recruitment Specialist in a corporation that hires 3000 people. He enjoys sport.  After his trip to Brasil he got an interest in different types of coffee and ways of brewing. He wants to try out new ways of making a coffee. 
 
 Experience with coffee making - 2/5 
@@ -15,17 +16,18 @@ Stress Level - 4/5
 
 # How to make a coffee with AeroPress
 ## Table of contents
-1. [Introduction](##1.-Introdutcion)
 
-2. [How to brew a coffee in AeroPress](How-to-brew-a-coffee-in-AeroPress)
-   - [What to prepare](###-What-to-prepare)
-   - [ Normal vs. Inverted AeroPress](###-Normal-vs.-Inverted-AeroPress)
-   - [Brewing](###Brewing)
-   - [Cleaning](###Cleaning)
-   - [Playing with a flavor](###Playing-with-a-flavor)
+  - [**1. Introduction**](#1-introduction)
+  - [**2. How to brew a coffee in AeroPress**](#2-how-to-brew-a-coffee-in-aeropress)
+    - [**What to prepare**](#what-to-prepare)
+    - [**Normal vs. Inverted AeroPress**](#normal-vs-inverted-aeropress)
+    - [**Brewing**](#brewing)
+    - [**Cleaning**](#cleaning)
+  - [**3. Playing with a flavor**](#3-playing-with-a-flavor)
+  - [**3. Safety notices**](#3-safety-notices)
+  - [**4. Glossary**](#4-glossary)
 
-3. [Safety notices](##Safety-notices)
-4. [Glossary](##Glossary)
+
  
 
 
